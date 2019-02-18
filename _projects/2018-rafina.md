@@ -1,12 +1,14 @@
 ---
-title: 'Ραφήνα 2018'
+title: 'Πνευματικό Κέντρο Ραφήνας - Πικερμίου, 2018'
 subtitle: 'Ατομική έθεση'
 date: 2018-06-30 00:00:00
 description: Πνευματικό κέντρο Ραφήνας 
 featured_image: '/images/rafina/1.jpg'
 ---
 
-<div class="gallery" data-columns="5">
+### Συγγένειες
+
+<div class="gallery" data-columns="6">
         <img src="/images/rafina/1.jpg">
         <img src="/images/rafina/2.jpg">
         <img src="/images/rafina/3.jpg">

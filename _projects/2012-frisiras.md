@@ -6,9 +6,9 @@ description: Μουσείο Φρυσίρα
 featured_image: '/images/frisiras/1.jpg'
 ---
 
-_Face to Face_
+### Face to Face
 
-Μουσείο _Φρυσίρα_, 2012. Ακρυλικά σε καμβά, 70x75 cm, 90x97 cm.
+Μουσείο _Φρυσίρα_, 2012. Ακρυλικό σε μουσαμά, 70x75 cm, 90x97 cm.
 
 <div class="gallery" data-columns="2">
         <img src="/images/frisiras/1.jpg">
