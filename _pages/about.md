@@ -1,7 +1,7 @@
 ---
 title: Βιογραφικό
 subtitle: Γεννήθηκα στην Αθήνα το 1969. Σπούδασα στην Ανωτάτη Σχολή Καλών Τεχνών της Αθήνας με καθηγητή το Χρόνη Μπότσογλου και σκηνογραφία με καθηγητή το Γιώργο Ζιάκα. Τον τρίτο και τέταρτο χρόνο των σπουδών μου έλαβα τιμητική υποτροφία από το εργαστήριο ζωγραφικής. Ζω και εργάζομαι στην Ραφήνα. 
-description: Duet is a beautiful Jekyll portfolio theme.
+description: Duet  a beautiful Jekyll portfolio theme.
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
