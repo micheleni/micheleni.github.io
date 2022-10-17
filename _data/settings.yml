@@ -12,8 +12,7 @@ menu_settings:
       url: "/"
     - title: "Βιογραφικό"
       url: "/about"
-    - title: "Εργαστήρι"
-      url: "/ergastiri"
+    
 
 footer_settings:
   logo_image:
